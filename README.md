@@ -41,8 +41,7 @@ Advanced analysis interface with zone definition (NEW)
 - View automatic plot interpretations in the analysis panel
 
 > **Screenshots & Demo Videos**
--functional video of app
-  <video src="[video/Sample_1080.mp4](https://youtu.be/8AqZnFtbx6g)" controls width=100%></video>  
+[![watch crowdsense demo](img/logo2.png)](https://www.youtube.com/watch?v=8AqZnFtbx6g)
 
 Main application interface
 ![screenshot](img/GUI_setting.png)
