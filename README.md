@@ -42,7 +42,7 @@ Advanced analysis interface with zone definition (NEW)
 
 > **Screenshots & Demo Videos**
 -functional video of app
-  <video src="video/Sample_1080.mp4" controls width=100%></video>  
+  <video src="[video/Sample_1080.mp4](https://youtu.be/8AqZnFtbx6g)" controls width=100%></video>  
 
 Main application interface
 ![screenshot](img/GUI_setting.png)
