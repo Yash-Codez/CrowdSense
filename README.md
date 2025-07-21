@@ -41,7 +41,7 @@ Advanced analysis interface with zone definition (NEW)
 - View automatic plot interpretations in the analysis panel
 
 > **Screenshots & Demo Videos**
-> - Demo.mp4
+-functional video of app
   <video src="video/Sample_1080.mp4" controls width=100%></video>  
 
 Main application interface
