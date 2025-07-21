@@ -17,7 +17,9 @@ CrowdSense is a Python-based intelligent system for analyzing pedestrian and veh
 
 ---
 Enhanced pedestrian tracking visualization with PedV (NEW) 
->-img/analysisGUI.png
+[pedestrian tracking visualization](img/analysisGUI.png)
+Advanced analysis interface with zone definition (NEW)
+[analysis interface](img/analysisGUI.png)
 ## 🚀 Features
 
 - 🔍 YOLOv8-based Object Detection  
@@ -40,7 +42,13 @@ Enhanced pedestrian tracking visualization with PedV (NEW)
 
 > **Screenshots & Demo Videos**  
 > - Sample_1080.mp4  
-> - Demo.mp4  
+> - Demo.mp4
+Main application interface
+[screenshot](img/GUI_setting.png)
+Video processing and tracking visualization
+(img/GUI-2.png)
+Density, Speed and trajectory analysis plots using Pedpy and LllamaVision
+(img/Plot_window.png)
 
 ---
 
