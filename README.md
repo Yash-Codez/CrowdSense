@@ -1,6 +1,6 @@
 
 # 🚶‍♂️ CrowdSense
-<video src="video/Sample_1080.mp4"></video>
+<video src="https://github.com/Yash-Codez/CrowdSense/blob/main/video/Sample_1080.mp4"></video>
 CrowdSense is a Python-based intelligent system for analyzing pedestrian and vehicle movements using state-of-the-art computer vision and machine learning techniques. Designed for traffic insights, safety analytics, and smart city applications, it features real-time object tracking, zone-based behavior analysis, and advanced visualization — all powered through a sleek graphical interface.
 
 ---
