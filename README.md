@@ -41,7 +41,7 @@ Advanced analysis interface with zone definition (NEW)
 - View automatic plot interpretations in the analysis panel
 
 > **Screenshots & Demo Videos**  
-> - Sample_1080.mp4  
+![crowd tracking](video/Sample_1080.mp4)  
 > - Demo.mp4
 Main application interface
 ![screenshot](img/GUI_setting.png)
