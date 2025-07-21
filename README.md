@@ -40,9 +40,10 @@ Advanced analysis interface with zone definition (NEW)
 - Visualize object paths, speed heatmaps, and zone-based metrics  
 - View automatic plot interpretations in the analysis panel
 
-> **Screenshots & Demo Videos**  
-![crowd tracking](video/Sample_1080.mp4)  
+> **Screenshots & Demo Videos**
 > - Demo.mp4
+  <video src="video/Sample_1080.mp4" controls width=100%></video>  
+
 Main application interface
 ![screenshot](img/GUI_setting.png)
 Video processing and tracking visualization
